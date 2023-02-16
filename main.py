@@ -1,1 +1,1 @@
-print(f'Hi,Bogdan.')
+print('Hi,Bogdan.')
